@@ -2,19 +2,26 @@
 ## HyungJin Cho
   [//]: # (Comment: #~###### is a header tag <h1>~<h6>)
 
-Brief Biography | Workflow
+Brief Biography | GitHub Workflow
 --- | ---
-In this section, I'll introduce myself using Markdown | In this section, I'll report my process onn GitHub
+In this first section, I'll introduce myself using Markdown | In this second section, I'll report my process on GitHub
   [//]: # (Comment: --- | --- creates a table)
 
 ### Brief Biography
 
-Hello, I'm HyungJin.
+Hello, I'm HyungJin. I'll introduce my self 
 I'm studying psychology in the _MA Program in the Social Sciences_ (*MAPSS*).
-[//]: # (Comment: _italic_ = *italic*)
+  [//]: # (Comment: _italic_ = *italic*)
 My research interest is __decision making__ and **time perception**.
-[//]: # (Comment: __bold__ = **bold**)
-
+  [//]: # (Comment: __bold__ = **bold**)
+My favorite books are
+1. <Why Zebras Don't Get Ulcers>
+  * by Robert M. Sapolsky 
+2. <The Future of the Mind>
+  - by Michio Kaku
+3. <Switch: How to Change Things When Change Is Hard>
+    - by Chip Heath, Dan Heath
+  [//]: # (Comment: 1.Ordered Lists, *,- Unordered List)
 
 As Kanye West said:
 
