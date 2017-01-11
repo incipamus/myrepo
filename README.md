@@ -9,18 +9,19 @@ In this first section, I'll introduce myself using Markdown | In this second sec
 
 ### Brief Biography
 
-Hello, I'm HyungJin. I'll introduce my self 
+Hello, I'm HyungJin.  
+  [//]: # (Comment: Newline by two spaces at the end of the line)
 I'm studying psychology in the _MA Program in the Social Sciences_ (*MAPSS*).
   [//]: # (Comment: _italic_ = *italic*)
 My research interest is __decision making__ and **time perception**.
   [//]: # (Comment: __bold__ = **bold**)
 My favorite books are  
-1. Why Zebras Don't Get Ulcers
-  * by Robert M. Sapolsky 
-2. The Future of the Mind
-  * by Michio Kaku
-3. Switch: How to Change Things When Change Is Hard
-  * by Chip Heath, Dan Heath
+1. Why Zebras Don't Get Ulcers  
+  * by Robert M. Sapolsky  
+2. The Future of the Mind  
+  * by Michio Kaku  
+3. Switch: How to Change Things When Change Is Hard  
+  * by Chip Heath, Dan Heath  
   [//]: # (Comment: 1.Ordered Lists, *,- Unordered List)
 
 As Kanye West said:
