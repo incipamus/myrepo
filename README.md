@@ -29,4 +29,5 @@ I'm from [Seoul, Korea](https://goo.gl/maps/GiGZRTW8mDB2).
 ### GitHub Workflow
 
 > Since GitHub and Markdown is new to me, it took some time and effort to get familiar with them. The 'General Homework Guidelines
-' was helpful to me to get a sense of the general workflow. I found 'Stack Overflow' also useful when I get stuck with a code and can't figure out what the problem is. My overall workflow of changing README.md was 1) Set up Github repository (this step includes fork, clone), 2) Edit Markdown file in RStudio, 3) Commit to GitHub repository (this step includes commit, push, pull request).
+' was helpful to me to get a sense of the general workflow. I found 'Stack Overflow' also useful when I get stuck with a code and can't figure out what the problem is. My overall workflow of changing README.md was 1) Setting up Github repository (this step includes fork, clone), 2) Editing Markdown file in RStudio, 3) Committing to GitHub repository (this step includes commit, push, pull request).
+  [//]: # (Comment: > Blockquotes)
