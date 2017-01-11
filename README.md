@@ -1,14 +1,13 @@
 # Homework 01: Edit README.md
 ## HyungJin Cho
+  [//]: # (Comment: #~###### is a header tag <h1>~<h6>)
 
-First Header | Second Header
+Brief Biography | Workflow
 --- | ---
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
+In this section, I'll introduce myself using Markdown | In this section, I'll report my process onn GitHub
+  [//]: # (Comment: --- | --- creates a table)
 
 ### Brief Biography
-[//]: # (Comment: #~###### is a header tag <h1>~<h6>)
 
 Hello, I'm HyungJin.
 I'm studying psychology in the _MA Program in the Social Sciences_ (*MAPSS*).
