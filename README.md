@@ -14,7 +14,7 @@ I'm studying psychology in the _MA Program in the Social Sciences_ (*MAPSS*).
   [//]: # (Comment: _italic_ = *italic*)
 My research interest is __decision making__ and **time perception**.
   [//]: # (Comment: __bold__ = **bold**)
-My favorite books are
+My favorite books are  
 1. Why Zebras Don't Get Ulcers
   * by Robert M. Sapolsky 
 2. The Future of the Mind
