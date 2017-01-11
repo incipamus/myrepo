@@ -23,33 +23,10 @@ My favorite books are
   [//]: # (Comment: 1.Ordered Lists, *,- Unordered List)
 My hobby is Scuba Diving.![PADI Logo](https://upload.wikimedia.org/wikipedia/en/b/b0/Logo_of_PADI.svg)
   [//]: # (Comment: Image: ![Text](url))
-I'm from [Seoul, Korea](https://goo.gl/maps/GiGZRTW8mDB2)
+I'm from [Seoul, Korea](https://goo.gl/maps/GiGZRTW8mDB2).
   [//]: # (Comment: Link: [Text](url))
 
+### GitHub Workflow
 
-Repository for first CFSS homework assignment
-
-
-
-Headers
-Emphasis (italics or bold)
-Lists
-Images1
-Links
-
-Report your process
-Include a description of how you got the changes into README.md on GitHub when you submit your assignment via pull request. You’re encouraged to reflect on what was hard/easy, problems you solved, helpful tutorials you read, etc.
-
-GitHub workflow and their experience with Markdown.
-
-
-
-
-Your general workflow will be:
-
-Pull from GitHub (just an empty precaution now, but will matter when you collaborate with others)
-Make changes locally to README.md in RStudio
-Save your changes
-Commit your changes to your repo
-Push the commit to GitHub
-
+> Since GitHub and Markdown is new to me, it took some time and effort to get familiar with them. The 'General Homework Guidelines
+' was helpful to me to get a sense of the general workflow. I found 'Stack Overflow' also useful when I get stuck with a code and can't figure out what the problem is. My overall workflow of changing README.md was 1) Set up Github repository (this step includes fork, clone), 2) Edit Markdown file in RStudio, 3) Commit to GitHub repository (this step includes commit, push, pull request).
