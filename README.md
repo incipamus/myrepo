@@ -1,16 +1,21 @@
 # Homework 01: Edit README.md
 ## HyungJin Cho
 
+First Header | Second Header
+- | -
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ### Brief Biography
 [//]: # (Comment: #~###### is a header tag <h1>~<h6>)
 
-*This text will be italic*
-_This will also be italic_
+Hello, I'm HyungJin.
+I'm studying psychology in the _MA Program in the Social Sciences_ (*MAPSS*).
+[//]: # (Comment: _italic_ = *italic*)
+My research interest is __decision making__ and **time perception**.
+[//]: # (Comment: __bold__ = **bold**)
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
 
 As Kanye West said:
 
