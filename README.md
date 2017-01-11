@@ -19,35 +19,12 @@ My favorite books are
 1. Why Zebras Don't Get Ulcers  
 2. The Future of the Mind  
 3. Switch: How to Change Things When Change Is Hard  
-  * by Robert M. Sapolsk / Michio Kaku / Chip Heath, Dan Heath  
+  * by Robert M. Sapolsk / Michio Kaku / Chip Heath, Dan Heath    
   [//]: # (Comment: 1.Ordered Lists, *,- Unordered List)
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
-   
-   
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
-
+My hobby is Scuba Diving.![PADI Logo](https://upload.wikimedia.org/wikipedia/en/b/b0/Logo_of_PADI.svg)
+  [//]: # (Comment: Image: ![Text](url))
+I'm from [Seoul, Korea](https://goo.gl/maps/GiGZRTW8mDB2)
+  [//]: # (Comment: Link: [Text](url))
 
 
 Repository for first CFSS homework assignment
